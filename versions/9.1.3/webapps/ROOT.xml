@@ -15,7 +15,8 @@ detected.
 
 
 <!-- railo JRAs stored here, not lib/ext -->
-<Set name="extraClasspath">../lib/railo</Set>
+<!--Set name="extraClasspath">../lib/railo</Set-->
+<!--Set name="extraClasspath">../libraries/lib/railo</Set-->
 
   <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
   <!-- Optional context configuration                                  -->
