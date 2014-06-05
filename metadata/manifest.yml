@@ -2,7 +2,7 @@ Name: railo4.2
 Cartridge-Short-Name: RAILO4j
 Display-Name: RAILO4j
 Description: "Railo 4.2 on Jetty9"
-Version: '4.2.j9'
+Version: '9.1.3'
 License: 'LGPL V2 Open Source, Apache License 2.0, Eclipse Public License 1.0'
 License-Url: 
 Vendor: The Railo Company
