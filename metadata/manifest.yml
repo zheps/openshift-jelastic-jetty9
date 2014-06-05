@@ -11,7 +11,7 @@ Cartridge-Vendor: Fast Hit
 Categories:
   - service
   - embedded
-Source-Url: https://github.com/jelastic-public-cartridges/openshift-jelastic-jetty9.git
+Source-Url: https://github.com/VagrantImp/openshift-jelastic-jetty9-railo.git
 Website: http://www.fasthit.net/
 Help-Topics:
   "Developer Center": http://devlab.fasthit.net
