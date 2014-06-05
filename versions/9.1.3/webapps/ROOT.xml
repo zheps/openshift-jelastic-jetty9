@@ -14,7 +14,8 @@ detected.
 <Configure class="org.eclipse.jetty.webapp.WebAppContext">
 
 
-
+<!-- railo JRAs stored here, not lib/ext -->
+<Set name="extraClasspath">../lib/railo</Set>
 
   <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
   <!-- Optional context configuration                                  -->
