@@ -1,20 +1,20 @@
-Name: railo4
-Cartridge-Short-Name: RAILO4j
-Display-Name: RAILO4j
-Description: "Railo 4.2 on Jetty9"
+Name: jetty9
+Cartridge-Short-Name: JETTY9
+Display-Name: JETTY9
+Description: "Jelastic Jetty9"
 Version: '9.1.3'
-License: 'LGPL V2 Open Source, Apache License 2.0, Eclipse Public License 1.0'
+License: 'Apache licence'
 License-Url: 
-Vendor: The Railo Company
+Vendor: Eclipse
 Cartridge-Version: 9.1.3
-Cartridge-Vendor: Fast Hit
+Cartridge-Vendor: Jelastic
 Categories:
   - service
   - embedded
-Source-Url: https://github.com/VagrantImp/openshift-jelastic-jetty9-railo.git
-Website: http://www.fasthit.net/
+Source-Url: https://github.com/jelastic-public-cartridges/openshift-jelastic-jetty9.git
+Website: http://jelastic.com/
 Help-Topics:
-  "Developer Center": http://devlab.fasthit.net
+  "Developer Center": https://jelastic.com
 Cart-Data:
   - Key: OPENSHIFT_APP_DNS
     Type: environment
@@ -32,9 +32,7 @@ Cart-Data:
     Type: environment
     Description: "Unique ID which identified the gear. This value changes between gears."
 Provides:
-  - jetty9
-  - railo4
-  - cfml
+  - jetty8
 Scaling:
   Min: 1
   Max: 1
