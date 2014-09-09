@@ -4,7 +4,6 @@ This cartridge provides [Jetty 9](http://eclipse.org/jetty/) on Jelastic Platfor
 **Jetty** is a free and open source project, developed as part of the Eclipse Foundation. It provides a pure Java-based HTTP (web) server and a servlet container for static and dynamic content serving either from a standalone or embedded instantiations. Jetty also ensures the support of SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and other integrated technologies, each of which is open source and available for commercial use and distribution. Thereby it makes Jetty rather flexible, extendible, and embeddable.
 
 Jetty 9 server supports Java 7 version and implements Servlet 3.1 and JSP 2.3 specifications.
- 
 
 For more details refer to the [Jelastic documentation](http://docs.jelastic.com/jetty-overview).
 
